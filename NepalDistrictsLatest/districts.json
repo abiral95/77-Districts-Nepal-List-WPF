@@ -1,0 +1,314 @@
+[
+    {
+        "Name": "District",
+        "Code": "0"
+    },
+    {
+        "Name": "Kaski",
+        "Code": "1"
+    },
+    {
+        "Name": "Dadeldhura",
+        "Code": "2"
+    },
+    {
+        "Name": "Okhaldhunga",
+        "Code": "3"
+    },
+    {
+        "Name": "Kanchanpur",
+        "Code": "4"
+    },
+    {
+        "Name": "Mustang",
+        "Code": "5"
+    },
+    {
+        "Name": "Dhanusa",
+        "Code": "6"
+    },
+    {
+        "Name": "Bardiya",
+        "Code": "7"
+    },
+    {
+        "Name": "Kapilbastu",
+        "Code": "8"
+    },
+    {
+        "Name": "Dhading",
+        "Code": "9"
+    },
+    {
+        "Name": "Dailekh",
+        "Code": "10"
+    },
+    {
+        "Name": "Siraha",
+        "Code": "11"
+    },
+    {
+        "Name": "Lalitpur",
+        "Code": "12"
+    },
+    {
+        "Name": "Rasuwa",
+        "Code": "13"
+    },
+    {
+        "Name": "Sindhupalchok",
+        "Code": "14"
+    },
+    {
+        "Name": "Surkhet",
+        "Code": "15"
+    },
+    {
+        "Name": "Salyan",
+        "Code": "16"
+    },
+    {
+        "Name": "Nuwakot",
+        "Code": "17"
+    },
+    {
+        "Name": "Syangja",
+        "Code": "18"
+    },
+    {
+        "Name": "Banke",
+        "Code": "19"
+    },
+    {
+        "Name": "Dolpa",
+        "Code": "20"
+    },
+    {
+        "Name": "Nawalpur",
+        "Code": "21"
+    },
+    {
+        "Name": "Khotang",
+        "Code": "22"
+    },
+    {
+        "Name": "Gorkha",
+        "Code": "23"
+    },
+    {
+        "Name": "Kabhrepalanchok",
+        "Code": "24"
+    },
+    {
+        "Name": "Bajhang",
+        "Code": "25"
+    },
+    {
+        "Name": "Gulmi",
+        "Code": "26"
+    },
+    {
+        "Name": "Myagdi",
+        "Code": "27"
+    },
+    {
+        "Name": "Saptari",
+        "Code": "28"
+    },
+    {
+        "Name": "Sindhuli",
+        "Code": "29"
+    },
+    {
+        "Name": "Udayapur",
+        "Code": "30"
+    },
+    {
+        "Name": "Eastern Rukum",
+        "Code": "31"
+    },
+    {
+        "Name": "Tanahu",
+        "Code": "32"
+    },
+    {
+        "Name": "Mahottari",
+        "Code": "33"
+    },
+    {
+        "Name": "Chitwan",
+        "Code": "34"
+    },
+    {
+        "Name": "Rolpa",
+        "Code": "35"
+    },
+    {
+        "Name": "Solukhumbu",
+        "Code": "36"
+    },
+    {
+        "Name": "Parsa",
+        "Code": "37"
+    },
+    {
+        "Name": "Kailali",
+        "Code": "38"
+    },
+    {
+        "Name": "Bajura",
+        "Code": "39"
+    },
+    {
+        "Name": "Doti",
+        "Code": "40"
+    },
+    {
+        "Name": "Panchthar",
+        "Code": "41"
+    },
+    {
+        "Name": "Rautahat",
+        "Code": "42"
+    },
+    {
+        "Name": "Terhathum",
+        "Code": "43"
+    },
+    {
+        "Name": "Palpa",
+        "Code": "44"
+    },
+    {
+        "Name": "Baglung",
+        "Code": "45"
+    },
+    {
+        "Name": "Jajarkot",
+        "Code": "46"
+    },
+    {
+        "Name": "Ramechhap",
+        "Code": "47"
+    },
+    {
+        "Name": "Ilam",
+        "Code": "48"
+    },
+    {
+        "Name": "Parasi",
+        "Code": "49"
+    },
+    {
+        "Name": "Kathmandu",
+        "Code": "50"
+    },
+    {
+        "Name": "Humla",
+        "Code": "51"
+    },
+    {
+        "Name": "Kalikot",
+        "Code": "52"
+    },
+    {
+        "Name": "Bhaktapur",
+        "Code": "53"
+    },
+    {
+        "Name": "Dang",
+        "Code": "54"
+    },
+    {
+        "Name": "Bhojpur",
+        "Code": "55"
+    },
+    {
+        "Name": "Parbat",
+        "Code": "56"
+    },
+    {
+        "Name": "Jhapa",
+        "Code": "57"
+    },
+    {
+        "Name": "Morang",
+        "Code": "58"
+    },
+    {
+        "Name": "Baitadi",
+        "Code": "50"
+    },
+    {
+        "Name": "Achham",
+        "Code": "60"
+    },
+    {
+        "Name": "Jumla",
+        "Code": "61"
+    },
+    {
+        "Name": "Makawanpur",
+        "Code": "62"
+    },
+    {
+        "Name": "Mugu",
+        "Code": "63"
+    },
+    {
+        "Name": "Taplejung",
+        "Code": "64"
+    },
+    {
+        "Name": "Rupandehi",
+        "Code": "65"
+    },
+    {
+        "Name": "Darchula",
+        "Code": "66"
+    },
+    {
+        "Name": "Lamjung",
+        "Code": "67"
+    },
+    {
+        "Name": "Bara",
+        "Code": "68"
+    },
+    {
+        "Name": "Sarlahi",
+        "Code": "69"
+    },
+    {
+        "Name": "Pyuthan",
+        "Code": "70"
+    },
+    {
+        "Name": "Dolakha",
+        "Code": "71"
+    },
+    {
+        "Name": "Manang",
+        "Code": "72"
+    },
+    {
+        "Name": "Arghakhanchi",
+        "Code": "73"
+    },
+    {
+        "Name": "Dhankuta",
+        "Code": "74"
+    },
+    {
+        "Name": "Sunsari",
+        "Code": "75"
+    },
+    {
+        "Name": "Western Rukum",
+        "Code": "76"
+    },
+    {
+        "Name": "Sankhuwasabha",
+        "Code": "77"
+    }
+]
